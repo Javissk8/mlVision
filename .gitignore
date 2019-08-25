@@ -1,0 +1,6 @@
+
+MLVisionExample/GoogleService-Info.plist
+Pods/FirebaseMLVisionObjectDetection/Frameworks/FirebaseMLVisionObjectDetection.framework/FirebaseMLVisionObjectDetection
+Pods/GoogleMobileVision/FaceDetector/Frameworks/FaceDetector.framework/FaceDetector
+Pods/GoogleMobileVision/LabelDetector/Frameworks/LabelDetector.framework/LabelDetector
+Pods/GoogleMobileVision/TextDetector/Frameworks/TextDetector.framework/TextDetector
